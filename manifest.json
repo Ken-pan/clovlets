@@ -1,7 +1,7 @@
 {
   "schema": "open-artwork/1",
-  "name": "Mallowbits",
-  "version": "1.0.1",
+  "name": "Clovlets",
+  "version": "1.0.2",
   "creator": "Ken Pan",
   "license": "CC0-1.0",
   "sourceCollectionVersion": 1,
@@ -12,14 +12,14 @@
       "group": "reactions",
       "groupLabel": "Reactions",
       "tags": [
-        "喜欢",
-        "爱心",
+        "\u559c\u6b22",
+        "\u7231\u5fc3",
         "Love",
         "reactions",
         "heart",
         "hearts",
-        "❤️",
-        "❤",
+        "\u2764\ufe0f",
+        "\u2764",
         "affection"
       ],
       "alt": "Love",
@@ -45,15 +45,15 @@
       "group": "reactions",
       "groupLabel": "Reactions",
       "tags": [
-        "大笑",
-        "开心",
+        "\u5927\u7b11",
+        "\u5f00\u5fc3",
         "So",
         "funny",
         "reactions",
         "lol",
         "laugh",
         "laughing",
-        "😂",
+        "\ud83d\ude02",
         "funny"
       ],
       "alt": "So funny",
@@ -79,15 +79,15 @@
       "group": "reactions",
       "groupLabel": "Reactions",
       "tags": [
-        "点赞",
-        "赞",
+        "\u70b9\u8d5e",
+        "\u8d5e",
         "Nice",
         "work",
         "reactions",
         "thumb",
         "thumbsup",
         "approval",
-        "👍",
+        "\ud83d\udc4d",
         "nice"
       ],
       "alt": "Nice work",
@@ -113,14 +113,14 @@
       "group": "reactions",
       "groupLabel": "Reactions",
       "tags": [
-        "庆祝",
-        "派对",
+        "\u5e86\u795d",
+        "\u6d3e\u5bf9",
         "Celebrate",
         "reactions",
         "party",
         "birthday",
         "confetti",
-        "🎉",
+        "\ud83c\udf89",
         "congrats"
       ],
       "alt": "Celebrate",
@@ -146,15 +146,15 @@
       "group": "reactions",
       "groupLabel": "Reactions",
       "tags": [
-        "谢谢",
-        "感谢",
+        "\u8c22\u8c22",
+        "\u611f\u8c22",
         "Thank",
         "you",
         "reactions",
         "thank",
         "gratitude",
         "grateful",
-        "🙏"
+        "\ud83d\ude4f"
       ],
       "alt": "Thank you",
       "file": "png/thanks.png",
@@ -179,13 +179,13 @@
       "group": "reactions",
       "groupLabel": "Reactions",
       "tags": [
-        "思考",
-        "想想",
+        "\u601d\u8003",
+        "\u60f3\u60f3",
         "Thinking",
         "reactions",
         "think",
         "hmm",
-        "🤔"
+        "\ud83e\udd14"
       ],
       "alt": "Thinking",
       "file": "png/thinking.png",
@@ -210,13 +210,13 @@
       "group": "reactions",
       "groupLabel": "Reactions",
       "tags": [
-        "惊讶",
-        "哇",
+        "\u60ca\u8bb6",
+        "\u54c7",
         "Wow",
         "reactions",
         "surprised",
         "surprise",
-        "😮"
+        "\ud83d\ude2e"
       ],
       "alt": "Wow",
       "file": "png/wow.png",
@@ -241,13 +241,13 @@
       "group": "reactions",
       "groupLabel": "Reactions",
       "tags": [
-        "开心",
-        "微笑",
+        "\u5f00\u5fc3",
+        "\u5fae\u7b11",
         "Happy",
         "reactions",
         "smile",
         "smiling",
-        "😊"
+        "\ud83d\ude0a"
       ],
       "alt": "Happy",
       "file": "png/happy.png",
@@ -272,15 +272,15 @@
       "group": "reactions",
       "groupLabel": "Reactions",
       "tags": [
-        "难过",
-        "哭哭",
+        "\u96be\u8fc7",
+        "\u54ed\u54ed",
         "Big",
         "feelings",
         "reactions",
         "cry",
         "crying",
         "tears",
-        "😭"
+        "\ud83d\ude2d"
       ],
       "alt": "Big feelings",
       "file": "png/sad.png",
@@ -305,12 +305,12 @@
       "group": "reactions",
       "groupLabel": "Reactions",
       "tags": [
-        "酷",
-        "墨镜",
+        "\u9177",
+        "\u58a8\u955c",
         "Cool",
         "reactions",
         "sunglasses",
-        "😎"
+        "\ud83d\ude0e"
       ],
       "alt": "Cool",
       "file": "png/cool.png",
@@ -335,14 +335,14 @@
       "group": "reactions",
       "groupLabel": "Reactions",
       "tags": [
-        "火",
-        "热爱",
+        "\u706b",
+        "\u70ed\u7231",
         "On",
         "fire",
         "reactions",
         "hot",
         "trending",
-        "🔥"
+        "\ud83d\udd25"
       ],
       "alt": "On fire",
       "file": "png/fire.png",
@@ -367,8 +367,8 @@
       "group": "reactions",
       "groupLabel": "Reactions",
       "tags": [
-        "满分",
-        "一百",
+        "\u6ee1\u5206",
+        "\u4e00\u767e",
         "One",
         "hundred",
         "reactions"
@@ -396,8 +396,8 @@
       "group": "buddies",
       "groupLabel": "Little buddies",
       "tags": [
-        "开心",
-        "猫",
+        "\u5f00\u5fc3",
+        "\u732b",
         "Happy",
         "cat",
         "buddies",
@@ -428,8 +428,8 @@
       "group": "buddies",
       "groupLabel": "Little buddies",
       "tags": [
-        "兔子",
-        "喜欢",
+        "\u5154\u5b50",
+        "\u559c\u6b22",
         "Love",
         "bunny",
         "buddies"
@@ -457,8 +457,8 @@
       "group": "buddies",
       "groupLabel": "Little buddies",
       "tags": [
-        "熊",
-        "感谢",
+        "\u718a",
+        "\u611f\u8c22",
         "Thankful",
         "bear",
         "buddies"
@@ -486,8 +486,8 @@
       "group": "buddies",
       "groupLabel": "Little buddies",
       "tags": [
-        "青蛙",
-        "好奇",
+        "\u9752\u86d9",
+        "\u597d\u5947",
         "Curious",
         "frog",
         "buddies"
@@ -515,8 +515,8 @@
       "group": "buddies",
       "groupLabel": "Little buddies",
       "tags": [
-        "熊猫",
-        "困",
+        "\u718a\u732b",
+        "\u56f0",
         "Sleepy",
         "panda",
         "buddies"
@@ -544,8 +544,8 @@
       "group": "buddies",
       "groupLabel": "Little buddies",
       "tags": [
-        "狐狸",
-        "眨眼",
+        "\u72d0\u72f8",
+        "\u7728\u773c",
         "Winking",
         "fox",
         "buddies"
@@ -573,8 +573,8 @@
       "group": "buddies",
       "groupLabel": "Little buddies",
       "tags": [
-        "狗狗",
-        "开心",
+        "\u72d7\u72d7",
+        "\u5f00\u5fc3",
         "Good",
         "dog",
         "buddies"
@@ -602,8 +602,8 @@
       "group": "buddies",
       "groupLabel": "Little buddies",
       "tags": [
-        "鸭子",
-        "惊讶",
+        "\u9e2d\u5b50",
+        "\u60ca\u8bb6",
         "Surprised",
         "duck",
         "buddies"
@@ -631,8 +631,8 @@
       "group": "buddies",
       "groupLabel": "Little buddies",
       "tags": [
-        "害羞",
-        "幽灵",
+        "\u5bb3\u7f9e",
+        "\u5e7d\u7075",
         "Shy",
         "ghost",
         "buddies"
@@ -660,8 +660,8 @@
       "group": "buddies",
       "groupLabel": "Little buddies",
       "tags": [
-        "章鱼",
-        "酷",
+        "\u7ae0\u9c7c",
+        "\u9177",
         "Cool",
         "octopus",
         "buddies"
@@ -689,8 +689,8 @@
       "group": "buddies",
       "groupLabel": "Little buddies",
       "tags": [
-        "水豚",
-        "平静",
+        "\u6c34\u8c5a",
+        "\u5e73\u9759",
         "Calm",
         "capybara",
         "buddies"
@@ -718,8 +718,8 @@
       "group": "buddies",
       "groupLabel": "Little buddies",
       "tags": [
-        "企鹅",
-        "自豪",
+        "\u4f01\u9e45",
+        "\u81ea\u8c6a",
         "Proud",
         "penguin",
         "buddies"
@@ -747,15 +747,15 @@
       "group": "work",
       "groupLabel": "Work & ideas",
       "tags": [
-        "完成",
-        "搞定",
+        "\u5b8c\u6210",
+        "\u641e\u5b9a",
         "Done",
         "work",
         "complete",
         "completed",
         "check",
         "task",
-        "✅"
+        "\u2705"
       ],
       "alt": "Done",
       "file": "png/done.png",
@@ -780,8 +780,8 @@
       "group": "work",
       "groupLabel": "Work & ideas",
       "tags": [
-        "同意",
-        "好",
+        "\u540c\u610f",
+        "\u597d",
         "Yes",
         "work"
       ],
@@ -808,8 +808,8 @@
       "group": "work",
       "groupLabel": "Work & ideas",
       "tags": [
-        "不同意",
-        "否",
+        "\u4e0d\u540c\u610f",
+        "\u5426",
         "No",
         "work"
       ],
@@ -836,9 +836,9 @@
       "group": "work",
       "groupLabel": "Work & ideas",
       "tags": [
-        "待确认",
-        "审核",
-        "检查",
+        "\u5f85\u786e\u8ba4",
+        "\u5ba1\u6838",
+        "\u68c0\u67e5",
         "Needs",
         "review",
         "work",
@@ -870,14 +870,14 @@
       "group": "work",
       "groupLabel": "Work & ideas",
       "tags": [
-        "灵感",
-        "想法",
+        "\u7075\u611f",
+        "\u60f3\u6cd5",
         "New",
         "idea",
         "work",
         "brainstorm",
         "lightbulb",
-        "💡"
+        "\ud83d\udca1"
       ],
       "alt": "New idea",
       "file": "png/idea.png",
@@ -902,13 +902,13 @@
       "group": "work",
       "groupLabel": "Work & ideas",
       "tags": [
-        "问题",
-        "疑问",
+        "\u95ee\u9898",
+        "\u7591\u95ee",
         "Question",
         "work",
         "help",
         "why",
-        "❓"
+        "\u2753"
       ],
       "alt": "Question",
       "file": "png/question.png",
@@ -933,8 +933,8 @@
       "group": "work",
       "groupLabel": "Work & ideas",
       "tags": [
-        "重要",
-        "提醒",
+        "\u91cd\u8981",
+        "\u63d0\u9192",
         "Important",
         "work"
       ],
@@ -961,8 +961,8 @@
       "group": "work",
       "groupLabel": "Work & ideas",
       "tags": [
-        "提醒",
-        "通知",
+        "\u63d0\u9192",
+        "\u901a\u77e5",
         "Reminder",
         "work"
       ],
@@ -989,8 +989,8 @@
       "group": "work",
       "groupLabel": "Work & ideas",
       "tags": [
-        "专注",
-        "工作",
+        "\u4e13\u6ce8",
+        "\u5de5\u4f5c",
         "Focus",
         "time",
         "work"
@@ -1014,18 +1014,18 @@
     },
     {
       "id": "rocket",
-      "title": "Let’s go",
+      "title": "Let\u2019s go",
       "group": "work",
       "groupLabel": "Work & ideas",
       "tags": [
-        "出发",
-        "加油",
-        "火箭",
-        "Let’s",
+        "\u51fa\u53d1",
+        "\u52a0\u6cb9",
+        "\u706b\u7bad",
+        "Let\u2019s",
         "go",
         "work"
       ],
-      "alt": "Let’s go",
+      "alt": "Let\u2019s go",
       "file": "png/rocket.png",
       "preview": "webp/rocket.webp",
       "width": 1254,
@@ -1048,8 +1048,8 @@
       "group": "work",
       "groupLabel": "Work & ideas",
       "tags": [
-        "进行中",
-        "马上做",
+        "\u8fdb\u884c\u4e2d",
+        "\u9a6c\u4e0a\u505a",
         "On",
         "it",
         "work",
@@ -1081,9 +1081,9 @@
       "group": "work",
       "groupLabel": "Work & ideas",
       "tags": [
-        "收藏",
-        "标记",
-        "旗帜",
+        "\u6536\u85cf",
+        "\u6807\u8bb0",
+        "\u65d7\u5e1c",
         "Save",
         "this",
         "work"
@@ -1111,14 +1111,14 @@
       "group": "cozy",
       "groupLabel": "Cozy things",
       "tags": [
-        "咖啡",
-        "休息",
+        "\u5496\u5561",
+        "\u4f11\u606f",
         "Coffee",
         "break",
         "cozy",
         "cafe",
         "break",
-        "☕"
+        "\u2615"
       ],
       "alt": "Coffee break",
       "file": "png/coffee.png",
@@ -1143,8 +1143,8 @@
       "group": "cozy",
       "groupLabel": "Cozy things",
       "tags": [
-        "茶",
-        "休息",
+        "\u8336",
+        "\u4f11\u606f",
         "Tea",
         "time",
         "cozy"
@@ -1172,8 +1172,8 @@
       "group": "cozy",
       "groupLabel": "Cozy things",
       "tags": [
-        "饼干",
-        "甜",
+        "\u997c\u5e72",
+        "\u751c",
         "Sweet",
         "cookie",
         "cozy"
@@ -1201,8 +1201,8 @@
       "group": "cozy",
       "groupLabel": "Cozy things",
       "tags": [
-        "牛角包",
-        "可颂",
+        "\u725b\u89d2\u5305",
+        "\u53ef\u9882",
         "Croissant",
         "cozy"
       ],
@@ -1229,8 +1229,8 @@
       "group": "cozy",
       "groupLabel": "Cozy things",
       "tags": [
-        "面包",
-        "吐司",
+        "\u9762\u5305",
+        "\u5410\u53f8",
         "Happy",
         "toast",
         "cozy"
@@ -1258,7 +1258,7 @@
       "group": "cozy",
       "groupLabel": "Cozy things",
       "tags": [
-        "牛油果",
+        "\u725b\u6cb9\u679c",
         "Avocado",
         "cozy"
       ],
@@ -1285,7 +1285,7 @@
       "group": "cozy",
       "groupLabel": "Cozy things",
       "tags": [
-        "樱桃",
+        "\u6a31\u6843",
         "Cherry",
         "friends",
         "cozy"
@@ -1313,8 +1313,8 @@
       "group": "cozy",
       "groupLabel": "Cozy things",
       "tags": [
-        "桃子",
-        "可爱",
+        "\u6843\u5b50",
+        "\u53ef\u7231",
         "Peachy",
         "cozy"
       ],
@@ -1341,8 +1341,8 @@
       "group": "cozy",
       "groupLabel": "Cozy things",
       "tags": [
-        "蛋糕",
-        "奖励",
+        "\u86cb\u7cd5",
+        "\u5956\u52b1",
         "A",
         "little",
         "treat",
@@ -1371,7 +1371,7 @@
       "group": "cozy",
       "groupLabel": "Cozy things",
       "tags": [
-        "披萨",
+        "\u62ab\u8428",
         "Pizza",
         "time",
         "cozy"
@@ -1399,8 +1399,8 @@
       "group": "cozy",
       "groupLabel": "Cozy things",
       "tags": [
-        "书",
-        "读书",
+        "\u4e66",
+        "\u8bfb\u4e66",
         "Book",
         "club",
         "cozy"
@@ -1428,8 +1428,8 @@
       "group": "cozy",
       "groupLabel": "Cozy things",
       "tags": [
-        "睡觉",
-        "休息",
+        "\u7761\u89c9",
+        "\u4f11\u606f",
         "Rest",
         "up",
         "cozy",
@@ -1437,7 +1437,7 @@
         "sleeping",
         "tired",
         "nap",
-        "💤"
+        "\ud83d\udca4"
       ],
       "alt": "Rest up",
       "file": "png/sleep.png",
@@ -1462,8 +1462,8 @@
       "group": "nature",
       "groupLabel": "Nature & magic",
       "tags": [
-        "太阳",
-        "晴天",
+        "\u592a\u9633",
+        "\u6674\u5929",
         "Sunny",
         "day",
         "nature"
@@ -1491,8 +1491,8 @@
       "group": "nature",
       "groupLabel": "Nature & magic",
       "tags": [
-        "月亮",
-        "晚安",
+        "\u6708\u4eae",
+        "\u665a\u5b89",
         "Good",
         "night",
         "nature"
@@ -1520,7 +1520,7 @@
       "group": "nature",
       "groupLabel": "Nature & magic",
       "tags": [
-        "云朵",
+        "\u4e91\u6735",
         "Soft",
         "cloud",
         "nature"
@@ -1548,7 +1548,7 @@
       "group": "nature",
       "groupLabel": "Nature & magic",
       "tags": [
-        "彩虹",
+        "\u5f69\u8679",
         "Rainbow",
         "nature"
       ],
@@ -1575,8 +1575,8 @@
       "group": "nature",
       "groupLabel": "Nature & magic",
       "tags": [
-        "闪光",
-        "魔法",
+        "\u95ea\u5149",
+        "\u9b54\u6cd5",
         "A",
         "little",
         "magic",
@@ -1584,7 +1584,7 @@
         "star",
         "stars",
         "magic",
-        "✨"
+        "\u2728"
       ],
       "alt": "A little magic",
       "file": "png/sparkle.png",
@@ -1609,14 +1609,14 @@
       "group": "nature",
       "groupLabel": "Nature & magic",
       "tags": [
-        "花",
-        "鲜花",
+        "\u82b1",
+        "\u9c9c\u82b1",
         "Flower",
         "power",
         "nature",
         "flowers",
         "bloom",
-        "🌸"
+        "\ud83c\udf38"
       ],
       "alt": "Flower power",
       "file": "png/flower.png",
@@ -1641,8 +1641,8 @@
       "group": "nature",
       "groupLabel": "Nature & magic",
       "tags": [
-        "成长",
-        "发芽",
+        "\u6210\u957f",
+        "\u53d1\u82bd",
         "Growing",
         "nature"
       ],
@@ -1669,7 +1669,7 @@
       "group": "nature",
       "groupLabel": "Nature & magic",
       "tags": [
-        "蘑菇",
+        "\u8611\u83c7",
         "Tiny",
         "mushroom",
         "nature"
@@ -1697,8 +1697,8 @@
       "group": "nature",
       "groupLabel": "Nature & magic",
       "tags": [
-        "星球",
-        "太空",
+        "\u661f\u7403",
+        "\u592a\u7a7a",
         "Space",
         "explorer",
         "nature"
@@ -1726,7 +1726,7 @@
       "group": "nature",
       "groupLabel": "Nature & magic",
       "tags": [
-        "蝴蝶",
+        "\u8774\u8776",
         "Butterfly",
         "nature"
       ],
@@ -1753,8 +1753,8 @@
       "group": "nature",
       "groupLabel": "Nature & magic",
       "tags": [
-        "郁金香",
-        "花",
+        "\u90c1\u91d1\u9999",
+        "\u82b1",
         "Tulip",
         "nature"
       ],
@@ -1781,8 +1781,8 @@
       "group": "nature",
       "groupLabel": "Nature & magic",
       "tags": [
-        "幸运",
-        "四叶草",
+        "\u5e78\u8fd0",
+        "\u56db\u53f6\u8349",
         "Good",
         "luck",
         "nature"

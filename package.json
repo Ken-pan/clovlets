@@ -1,6 +1,6 @@
 {
-  "name": "mallowbits",
-  "version": "1.0.1",
+  "name": "clovlets",
+  "version": "1.0.2",
   "private": true,
   "type": "module",
   "license": "(CC0-1.0 AND MIT)",
@@ -21,7 +21,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Ken-pan/mallowbits.git"
+    "url": "https://github.com/Ken-pan/clovlets.git"
   },
-  "homepage": "https://ken-pan.github.io/mallowbits/"
+  "homepage": "https://ken-pan.github.io/clovlets/"
 }

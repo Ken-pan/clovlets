@@ -364,5 +364,11 @@
       "originalSha256": "a4019f399caf58a5fa059c2de0665f21e60be7b1e43dcb6834ad5a77a28bf806"
     }
   ],
-  "canonicalSourceManifestSha256": "bea104d52f229c3e4f9b55e3c9a853929c34a75f8acdfa66b6bb6b22c998ea57"
+  "canonicalSourceManifestSha256": "bea104d52f229c3e4f9b55e3c9a853929c34a75f8acdfa66b6bb6b22c998ea57",
+  "publicationNameHistory": {
+    "previous": "Mallowbits",
+    "current": "Clovlets",
+    "changed": "2026-10-14",
+    "note": "Public branding only. Source manifests, asset hashes and original generation records are unchanged."
+  }
 }

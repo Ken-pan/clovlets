@@ -1,8 +1,8 @@
 {
-  "name": "Mallowbits",
-  "slug": "mallowbits",
+  "name": "Clovlets",
+  "slug": "clovlets",
   "kind": "clay",
-  "repository": "https://github.com/Ken-pan/mallowbits",
+  "repository": "https://github.com/Ken-pan/clovlets",
   "expectedAssets": 60,
   "hero": "love",
   "secondary": "cat",
