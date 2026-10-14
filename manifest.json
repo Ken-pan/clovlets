@@ -1,0 +1,1808 @@
+{
+  "schema": "open-artwork/1",
+  "name": "Mallowbits",
+  "version": "1.0.0",
+  "creator": "Ken Pan",
+  "license": "CC0-1.0",
+  "sourceCollectionVersion": 1,
+  "assets": [
+    {
+      "id": "love",
+      "title": "Love",
+      "group": "reactions",
+      "groupLabel": "Reactions",
+      "tags": [
+        "喜欢",
+        "爱心",
+        "Love",
+        "reactions",
+        "heart",
+        "hearts",
+        "❤️",
+        "❤",
+        "affection"
+      ],
+      "alt": "Love",
+      "file": "png/love.png",
+      "preview": "webp/love.webp",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 1217456,
+      "sha256": "83d8ec74382e836b8d56a9fcd81f58fc4cd8a71e0fbdf59f24b94635da2011f7",
+      "webp": {
+        "file": "webp/love.webp",
+        "width": 512,
+        "height": 512,
+        "bytes": 24914,
+        "sha256": "f81050e75f95a7eb509544e6c086849ad89d940ab6a3510eb2ac7f8b08c56853"
+      },
+      "license": "CC0-1.0",
+      "generator": "built-in image_gen"
+    },
+    {
+      "id": "laugh",
+      "title": "So funny",
+      "group": "reactions",
+      "groupLabel": "Reactions",
+      "tags": [
+        "大笑",
+        "开心",
+        "So",
+        "funny",
+        "reactions",
+        "lol",
+        "laugh",
+        "laughing",
+        "😂",
+        "funny"
+      ],
+      "alt": "So funny",
+      "file": "png/laugh.png",
+      "preview": "webp/laugh.webp",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 1278592,
+      "sha256": "3192a07c3ae905e97c6122330073b927f2cdac968cef4b1598eb3aacd7a588a1",
+      "webp": {
+        "file": "webp/laugh.webp",
+        "width": 512,
+        "height": 512,
+        "bytes": 22466,
+        "sha256": "ff27f65519661653e5b5016f5fe39c71a315a509156d533071184f79bba18fce"
+      },
+      "license": "CC0-1.0",
+      "generator": "built-in image_gen"
+    },
+    {
+      "id": "thumbs-up",
+      "title": "Nice work",
+      "group": "reactions",
+      "groupLabel": "Reactions",
+      "tags": [
+        "点赞",
+        "赞",
+        "Nice",
+        "work",
+        "reactions",
+        "thumb",
+        "thumbsup",
+        "approval",
+        "👍",
+        "nice"
+      ],
+      "alt": "Nice work",
+      "file": "png/thumbs-up.png",
+      "preview": "webp/thumbs-up.webp",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 1149051,
+      "sha256": "f6d4c3dec02a61ff176d3e6d3b0390cd92e3e93e8ad4a276a66666989d836cc5",
+      "webp": {
+        "file": "webp/thumbs-up.webp",
+        "width": 512,
+        "height": 512,
+        "bytes": 24322,
+        "sha256": "f4f4ca72e2d97ee64100050f3c320785b6520c4c2ef958661abe8dc05688e8c8"
+      },
+      "license": "CC0-1.0",
+      "generator": "built-in image_gen"
+    },
+    {
+      "id": "celebrate",
+      "title": "Celebrate",
+      "group": "reactions",
+      "groupLabel": "Reactions",
+      "tags": [
+        "庆祝",
+        "派对",
+        "Celebrate",
+        "reactions",
+        "party",
+        "birthday",
+        "confetti",
+        "🎉",
+        "congrats"
+      ],
+      "alt": "Celebrate",
+      "file": "png/celebrate.png",
+      "preview": "webp/celebrate.webp",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 970910,
+      "sha256": "2afcf56cefafab25905a8acfdfa6815cad4afb8376c8523559047ac8dd2034e9",
+      "webp": {
+        "file": "webp/celebrate.webp",
+        "width": 512,
+        "height": 512,
+        "bytes": 27802,
+        "sha256": "918d8f23b084126093079b3ddeaf78a9cc31fd32790dc76c5c685cac7eb7059e"
+      },
+      "license": "CC0-1.0",
+      "generator": "built-in image_gen"
+    },
+    {
+      "id": "thanks",
+      "title": "Thank you",
+      "group": "reactions",
+      "groupLabel": "Reactions",
+      "tags": [
+        "谢谢",
+        "感谢",
+        "Thank",
+        "you",
+        "reactions",
+        "thank",
+        "gratitude",
+        "grateful",
+        "🙏"
+      ],
+      "alt": "Thank you",
+      "file": "png/thanks.png",
+      "preview": "webp/thanks.webp",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 1028138,
+      "sha256": "9cb46cfa0eb8780dbea0489cf0d1183330154f21a7afac95e43cdb395e5ec3d7",
+      "webp": {
+        "file": "webp/thanks.webp",
+        "width": 512,
+        "height": 512,
+        "bytes": 24012,
+        "sha256": "54daba5cc6b81f9f3ca7cf570c6b316e4de9fd899aa05b1184c8b25225bf664b"
+      },
+      "license": "CC0-1.0",
+      "generator": "built-in image_gen"
+    },
+    {
+      "id": "thinking",
+      "title": "Thinking",
+      "group": "reactions",
+      "groupLabel": "Reactions",
+      "tags": [
+        "思考",
+        "想想",
+        "Thinking",
+        "reactions",
+        "think",
+        "hmm",
+        "🤔"
+      ],
+      "alt": "Thinking",
+      "file": "png/thinking.png",
+      "preview": "webp/thinking.webp",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 1123877,
+      "sha256": "4fda6cc5ff0c1da9a6b915cfafb83327f3ecea6632545eb33e32d05e7b572758",
+      "webp": {
+        "file": "webp/thinking.webp",
+        "width": 512,
+        "height": 512,
+        "bytes": 21804,
+        "sha256": "943dfcd5ccf23dc1f3e8d1c124fe9868da26ef11a64359be065c99602ec2bdb9"
+      },
+      "license": "CC0-1.0",
+      "generator": "built-in image_gen"
+    },
+    {
+      "id": "wow",
+      "title": "Wow",
+      "group": "reactions",
+      "groupLabel": "Reactions",
+      "tags": [
+        "惊讶",
+        "哇",
+        "Wow",
+        "reactions",
+        "surprised",
+        "surprise",
+        "😮"
+      ],
+      "alt": "Wow",
+      "file": "png/wow.png",
+      "preview": "webp/wow.webp",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 1321426,
+      "sha256": "aa611c38335443e85fbd7f5626560b6227470490a2a03bd4bfcedc2a5a23b045",
+      "webp": {
+        "file": "webp/wow.webp",
+        "width": 512,
+        "height": 512,
+        "bytes": 26848,
+        "sha256": "5cebc6c84c25a21ca788e64522d5e0448c8f30efb6fc8aa4f2dc2c1439caff3e"
+      },
+      "license": "CC0-1.0",
+      "generator": "built-in image_gen"
+    },
+    {
+      "id": "happy",
+      "title": "Happy",
+      "group": "reactions",
+      "groupLabel": "Reactions",
+      "tags": [
+        "开心",
+        "微笑",
+        "Happy",
+        "reactions",
+        "smile",
+        "smiling",
+        "😊"
+      ],
+      "alt": "Happy",
+      "file": "png/happy.png",
+      "preview": "webp/happy.webp",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 1293802,
+      "sha256": "e297e45b53471792f60f92e635fd1ea501cc75e37a5e5ac4de5ff2d9f04434ee",
+      "webp": {
+        "file": "webp/happy.webp",
+        "width": 512,
+        "height": 512,
+        "bytes": 21216,
+        "sha256": "c504fb9b450fa5221e6195eae6fb39d0ec6c5f9a4d400680654705fa059c0e7e"
+      },
+      "license": "CC0-1.0",
+      "generator": "built-in image_gen"
+    },
+    {
+      "id": "sad",
+      "title": "Big feelings",
+      "group": "reactions",
+      "groupLabel": "Reactions",
+      "tags": [
+        "难过",
+        "哭哭",
+        "Big",
+        "feelings",
+        "reactions",
+        "cry",
+        "crying",
+        "tears",
+        "😭"
+      ],
+      "alt": "Big feelings",
+      "file": "png/sad.png",
+      "preview": "webp/sad.webp",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 1264723,
+      "sha256": "aa34de8767f72155fba96c3ca7928bdd788a26623a717b10f687bd8ef9aff135",
+      "webp": {
+        "file": "webp/sad.webp",
+        "width": 512,
+        "height": 512,
+        "bytes": 23232,
+        "sha256": "1b2be7642a42075c5b5ab410bb9b4c3a1aa76182983680f78f2f059af9e387d1"
+      },
+      "license": "CC0-1.0",
+      "generator": "built-in image_gen"
+    },
+    {
+      "id": "cool",
+      "title": "Cool",
+      "group": "reactions",
+      "groupLabel": "Reactions",
+      "tags": [
+        "酷",
+        "墨镜",
+        "Cool",
+        "reactions",
+        "sunglasses",
+        "😎"
+      ],
+      "alt": "Cool",
+      "file": "png/cool.png",
+      "preview": "webp/cool.webp",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 1300497,
+      "sha256": "06b01eddc0f4a960e0cad5f7b4b09dd790e198b59bfb5b14f8613a274329728e",
+      "webp": {
+        "file": "webp/cool.webp",
+        "width": 512,
+        "height": 512,
+        "bytes": 25604,
+        "sha256": "26177b150190bb323dcdcd6304b0ae6bdb8ace9e466138cda56f72371f10b0a0"
+      },
+      "license": "CC0-1.0",
+      "generator": "built-in image_gen"
+    },
+    {
+      "id": "fire",
+      "title": "On fire",
+      "group": "reactions",
+      "groupLabel": "Reactions",
+      "tags": [
+        "火",
+        "热爱",
+        "On",
+        "fire",
+        "reactions",
+        "hot",
+        "trending",
+        "🔥"
+      ],
+      "alt": "On fire",
+      "file": "png/fire.png",
+      "preview": "webp/fire.webp",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 1389002,
+      "sha256": "4381a2ee20d00184ef99e020689c4acce59bfcae4b93fd776352b11e837648a7",
+      "webp": {
+        "file": "webp/fire.webp",
+        "width": 512,
+        "height": 512,
+        "bytes": 24950,
+        "sha256": "a9888128473ee9f477cc9d92a165a7c2d8174c7aaf3e3b77118255a84dedb1d0"
+      },
+      "license": "CC0-1.0",
+      "generator": "built-in image_gen"
+    },
+    {
+      "id": "100",
+      "title": "One hundred",
+      "group": "reactions",
+      "groupLabel": "Reactions",
+      "tags": [
+        "满分",
+        "一百",
+        "One",
+        "hundred",
+        "reactions"
+      ],
+      "alt": "One hundred",
+      "file": "png/100.png",
+      "preview": "webp/100.webp",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 1078696,
+      "sha256": "d519c5fc3802bbc21642684040e7748420180da63c42d9ce061f75bd65ab08bf",
+      "webp": {
+        "file": "webp/100.webp",
+        "width": 512,
+        "height": 512,
+        "bytes": 20386,
+        "sha256": "5ad2ff87da0b7aca221aa181676837d21e63dcea18e6222dc1e1226b89ce575d"
+      },
+      "license": "CC0-1.0",
+      "generator": "built-in image_gen"
+    },
+    {
+      "id": "cat",
+      "title": "Happy cat",
+      "group": "buddies",
+      "groupLabel": "Little buddies",
+      "tags": [
+        "开心",
+        "猫",
+        "Happy",
+        "cat",
+        "buddies",
+        "kitty",
+        "kitten",
+        "pet"
+      ],
+      "alt": "Happy cat",
+      "file": "png/cat.png",
+      "preview": "webp/cat.webp",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 1539043,
+      "sha256": "0a6e16ec60259c14308cc6e5a4273d151fac9e36c1c3386a1fd376f3cbcd85e1",
+      "webp": {
+        "file": "webp/cat.webp",
+        "width": 512,
+        "height": 512,
+        "bytes": 30488,
+        "sha256": "ec985c782fdb08d13080a0ae7bde47664876f17f1cfbcdedc93011e74283dbe2"
+      },
+      "license": "CC0-1.0",
+      "generator": "built-in image_gen"
+    },
+    {
+      "id": "bunny",
+      "title": "Love bunny",
+      "group": "buddies",
+      "groupLabel": "Little buddies",
+      "tags": [
+        "兔子",
+        "喜欢",
+        "Love",
+        "bunny",
+        "buddies"
+      ],
+      "alt": "Love bunny",
+      "file": "png/bunny.png",
+      "preview": "webp/bunny.webp",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 1052740,
+      "sha256": "878cf41c9190e9c7636b4bd3471eddfea5f10bf557e26d80447bc9a975a0da42",
+      "webp": {
+        "file": "webp/bunny.webp",
+        "width": 512,
+        "height": 512,
+        "bytes": 21434,
+        "sha256": "d9763b8df673ce8a468e8f43128ef8179c7fb15f16318141d2edeb5e5b83e766"
+      },
+      "license": "CC0-1.0",
+      "generator": "built-in image_gen"
+    },
+    {
+      "id": "bear",
+      "title": "Thankful bear",
+      "group": "buddies",
+      "groupLabel": "Little buddies",
+      "tags": [
+        "熊",
+        "感谢",
+        "Thankful",
+        "bear",
+        "buddies"
+      ],
+      "alt": "Thankful bear",
+      "file": "png/bear.png",
+      "preview": "webp/bear.webp",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 1420804,
+      "sha256": "70f52e5ab8ecc6536321d73c8d673e77500838f61270c44fd98531d49f5cbefe",
+      "webp": {
+        "file": "webp/bear.webp",
+        "width": 512,
+        "height": 512,
+        "bytes": 25070,
+        "sha256": "999820b94d5e7c10754aa2e8fb11346e47d1d770b2854cf281ee4da94bc0a4b9"
+      },
+      "license": "CC0-1.0",
+      "generator": "built-in image_gen"
+    },
+    {
+      "id": "frog",
+      "title": "Curious frog",
+      "group": "buddies",
+      "groupLabel": "Little buddies",
+      "tags": [
+        "青蛙",
+        "好奇",
+        "Curious",
+        "frog",
+        "buddies"
+      ],
+      "alt": "Curious frog",
+      "file": "png/frog.png",
+      "preview": "webp/frog.webp",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 1336197,
+      "sha256": "15f9a2a52cd5d1bd5bf3dd95dbb6696982e35f9a7b90c32476c9882850875ef7",
+      "webp": {
+        "file": "webp/frog.webp",
+        "width": 512,
+        "height": 512,
+        "bytes": 25952,
+        "sha256": "f1added53198cd2600b2cea2f001c1e3aa2fc596cec37df1b7bdd0fbc6ed930e"
+      },
+      "license": "CC0-1.0",
+      "generator": "built-in image_gen"
+    },
+    {
+      "id": "panda",
+      "title": "Sleepy panda",
+      "group": "buddies",
+      "groupLabel": "Little buddies",
+      "tags": [
+        "熊猫",
+        "困",
+        "Sleepy",
+        "panda",
+        "buddies"
+      ],
+      "alt": "Sleepy panda",
+      "file": "png/panda.png",
+      "preview": "webp/panda.webp",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 1588365,
+      "sha256": "a26ad7f85f75e7c45a75bfe6b3da34e62e0eb55943304cfe99983cb29bd1a33f",
+      "webp": {
+        "file": "webp/panda.webp",
+        "width": 512,
+        "height": 512,
+        "bytes": 25234,
+        "sha256": "5da5d43ff05841540d44c64574b178b37a1ae19d8271dc16e809e53d5512a25e"
+      },
+      "license": "CC0-1.0",
+      "generator": "built-in image_gen"
+    },
+    {
+      "id": "fox",
+      "title": "Winking fox",
+      "group": "buddies",
+      "groupLabel": "Little buddies",
+      "tags": [
+        "狐狸",
+        "眨眼",
+        "Winking",
+        "fox",
+        "buddies"
+      ],
+      "alt": "Winking fox",
+      "file": "png/fox.png",
+      "preview": "webp/fox.webp",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 1419077,
+      "sha256": "10eb69e7758b846aea4a94584ac3bc02f9c45d68efbb2ca20972b6d938244634",
+      "webp": {
+        "file": "webp/fox.webp",
+        "width": 512,
+        "height": 512,
+        "bytes": 32288,
+        "sha256": "bd2a9b550e211ee4c3d9e92cdaf255ff6968920e73eef8401f86469226bad5a6"
+      },
+      "license": "CC0-1.0",
+      "generator": "built-in image_gen"
+    },
+    {
+      "id": "dog",
+      "title": "Good dog",
+      "group": "buddies",
+      "groupLabel": "Little buddies",
+      "tags": [
+        "狗狗",
+        "开心",
+        "Good",
+        "dog",
+        "buddies"
+      ],
+      "alt": "Good dog",
+      "file": "png/dog.png",
+      "preview": "webp/dog.webp",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 1566563,
+      "sha256": "c2b57c773c11f43925b192003dfb94ff982ba5ea8785dfed38bed37ff99320e3",
+      "webp": {
+        "file": "webp/dog.webp",
+        "width": 512,
+        "height": 512,
+        "bytes": 32474,
+        "sha256": "fc4e36511ac2c8df4b2eb4d3201cc6aae780b679b7714ef09c77707e35ce0d3b"
+      },
+      "license": "CC0-1.0",
+      "generator": "built-in image_gen"
+    },
+    {
+      "id": "duck",
+      "title": "Surprised duck",
+      "group": "buddies",
+      "groupLabel": "Little buddies",
+      "tags": [
+        "鸭子",
+        "惊讶",
+        "Surprised",
+        "duck",
+        "buddies"
+      ],
+      "alt": "Surprised duck",
+      "file": "png/duck.png",
+      "preview": "webp/duck.webp",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 1052009,
+      "sha256": "bbb86a0bad4765fe505c970a04bac92f8b0fe91b5c3855c02e02e84375a7ec76",
+      "webp": {
+        "file": "webp/duck.webp",
+        "width": 512,
+        "height": 512,
+        "bytes": 22754,
+        "sha256": "ffebdf1051f38e4cf18967dd0f5569b14ee0d8b9019acba501399a4edda060ef"
+      },
+      "license": "CC0-1.0",
+      "generator": "built-in image_gen"
+    },
+    {
+      "id": "ghost",
+      "title": "Shy ghost",
+      "group": "buddies",
+      "groupLabel": "Little buddies",
+      "tags": [
+        "害羞",
+        "幽灵",
+        "Shy",
+        "ghost",
+        "buddies"
+      ],
+      "alt": "Shy ghost",
+      "file": "png/ghost.png",
+      "preview": "webp/ghost.webp",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 1149092,
+      "sha256": "049b253e595021ce6ce76734adddede4e605da7ffe364e8671d78967d5451d87",
+      "webp": {
+        "file": "webp/ghost.webp",
+        "width": 512,
+        "height": 512,
+        "bytes": 22794,
+        "sha256": "b2393ca67714faf46cfbbb56a23f888e0f2327c89e385b39c71ac046d4e903ac"
+      },
+      "license": "CC0-1.0",
+      "generator": "built-in image_gen"
+    },
+    {
+      "id": "octopus",
+      "title": "Cool octopus",
+      "group": "buddies",
+      "groupLabel": "Little buddies",
+      "tags": [
+        "章鱼",
+        "酷",
+        "Cool",
+        "octopus",
+        "buddies"
+      ],
+      "alt": "Cool octopus",
+      "file": "png/octopus.png",
+      "preview": "webp/octopus.webp",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 1306282,
+      "sha256": "7bfa164e4fa1fbd191ae5ddcbbe043da6db53c1880fb5701ecc2085201396eee",
+      "webp": {
+        "file": "webp/octopus.webp",
+        "width": 512,
+        "height": 512,
+        "bytes": 30640,
+        "sha256": "9b2bcfa3351e4332c1343a76281777a9d7133ee8d4d5bdf795165c8453b405a0"
+      },
+      "license": "CC0-1.0",
+      "generator": "built-in image_gen"
+    },
+    {
+      "id": "capybara",
+      "title": "Calm capybara",
+      "group": "buddies",
+      "groupLabel": "Little buddies",
+      "tags": [
+        "水豚",
+        "平静",
+        "Calm",
+        "capybara",
+        "buddies"
+      ],
+      "alt": "Calm capybara",
+      "file": "png/capybara.png",
+      "preview": "webp/capybara.webp",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 1243498,
+      "sha256": "05cdfdac1c1bab79e85341063f8e763aad800d088d8ff469f4b1c620c47d2608",
+      "webp": {
+        "file": "webp/capybara.webp",
+        "width": 512,
+        "height": 512,
+        "bytes": 22646,
+        "sha256": "a98537c1c0ae5a439333b2b854ee9a0e16469cfd20526c22627d020457ad5ba6"
+      },
+      "license": "CC0-1.0",
+      "generator": "built-in image_gen"
+    },
+    {
+      "id": "penguin",
+      "title": "Proud penguin",
+      "group": "buddies",
+      "groupLabel": "Little buddies",
+      "tags": [
+        "企鹅",
+        "自豪",
+        "Proud",
+        "penguin",
+        "buddies"
+      ],
+      "alt": "Proud penguin",
+      "file": "png/penguin.png",
+      "preview": "webp/penguin.webp",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 1196037,
+      "sha256": "fa1e7bffc6c9ef2a3a65c5955c98f799296df1e22e3114158feedb7740c2de62",
+      "webp": {
+        "file": "webp/penguin.webp",
+        "width": 512,
+        "height": 512,
+        "bytes": 26680,
+        "sha256": "f0575419e5996940856228bd3da680b9c5f1f95c22de5dc531b7de703965125f"
+      },
+      "license": "CC0-1.0",
+      "generator": "built-in image_gen"
+    },
+    {
+      "id": "done",
+      "title": "Done",
+      "group": "work",
+      "groupLabel": "Work & ideas",
+      "tags": [
+        "完成",
+        "搞定",
+        "Done",
+        "work",
+        "complete",
+        "completed",
+        "check",
+        "task",
+        "✅"
+      ],
+      "alt": "Done",
+      "file": "png/done.png",
+      "preview": "webp/done.webp",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 1353275,
+      "sha256": "fce91388844475da62ceca42e4da0b2b5e24542d06db31a0d197ea4b75d89f3e",
+      "webp": {
+        "file": "webp/done.webp",
+        "width": 512,
+        "height": 512,
+        "bytes": 25548,
+        "sha256": "ae38e5da8bb4029364b33ddf7332fd15a5e17138a8f75fcb612f405a5661a183"
+      },
+      "license": "CC0-1.0",
+      "generator": "built-in image_gen"
+    },
+    {
+      "id": "yes",
+      "title": "Yes",
+      "group": "work",
+      "groupLabel": "Work & ideas",
+      "tags": [
+        "同意",
+        "好",
+        "Yes",
+        "work"
+      ],
+      "alt": "Yes",
+      "file": "png/yes.png",
+      "preview": "webp/yes.webp",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 1057494,
+      "sha256": "3734ea295c0814300fd5bd94aef63250ba86e6c4336acaa8b4e72d99064f9ba9",
+      "webp": {
+        "file": "webp/yes.webp",
+        "width": 512,
+        "height": 512,
+        "bytes": 18138,
+        "sha256": "424064590157f1d15c0c1baadd9e59fa4b2c0db4d0a0066d65b62d44d50b272a"
+      },
+      "license": "CC0-1.0",
+      "generator": "built-in image_gen"
+    },
+    {
+      "id": "no",
+      "title": "No",
+      "group": "work",
+      "groupLabel": "Work & ideas",
+      "tags": [
+        "不同意",
+        "否",
+        "No",
+        "work"
+      ],
+      "alt": "No",
+      "file": "png/no.png",
+      "preview": "webp/no.webp",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 1252867,
+      "sha256": "550704952be7604e8b745a5e73be91669feaaa41a7a6bf3f574c19e6e5496d6d",
+      "webp": {
+        "file": "webp/no.webp",
+        "width": 512,
+        "height": 512,
+        "bytes": 19948,
+        "sha256": "f91b82c55e037e1216d26898a6fd40fd1e2f1ecae18f0f0630533d10aa042951"
+      },
+      "license": "CC0-1.0",
+      "generator": "built-in image_gen"
+    },
+    {
+      "id": "review",
+      "title": "Needs review",
+      "group": "work",
+      "groupLabel": "Work & ideas",
+      "tags": [
+        "待确认",
+        "审核",
+        "检查",
+        "Needs",
+        "review",
+        "work",
+        "check",
+        "pending",
+        "verify",
+        "feedback"
+      ],
+      "alt": "Needs review",
+      "file": "png/review.png",
+      "preview": "webp/review.webp",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 1221385,
+      "sha256": "bb8f5683972a72329df151da3a51fa8b49b3c04594b604087c7a95eb755bc62c",
+      "webp": {
+        "file": "webp/review.webp",
+        "width": 512,
+        "height": 512,
+        "bytes": 22916,
+        "sha256": "18101a09e66732a49edc6b1a0ff64ea17f018d8649c9473b1dc5d50b75e5a64d"
+      },
+      "license": "CC0-1.0",
+      "generator": "built-in image_gen"
+    },
+    {
+      "id": "idea",
+      "title": "New idea",
+      "group": "work",
+      "groupLabel": "Work & ideas",
+      "tags": [
+        "灵感",
+        "想法",
+        "New",
+        "idea",
+        "work",
+        "brainstorm",
+        "lightbulb",
+        "💡"
+      ],
+      "alt": "New idea",
+      "file": "png/idea.png",
+      "preview": "webp/idea.webp",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 982970,
+      "sha256": "90d3837936a2f510dd1177a0ddf3c5a6d7a0342b36f3965c2aeed3590f9a6f66",
+      "webp": {
+        "file": "webp/idea.webp",
+        "width": 512,
+        "height": 512,
+        "bytes": 22758,
+        "sha256": "e4c894f8fbdcbe36cd3648e217b1dcf47d0016b55add7b0161bb0852d0e66f3a"
+      },
+      "license": "CC0-1.0",
+      "generator": "built-in image_gen"
+    },
+    {
+      "id": "question",
+      "title": "Question",
+      "group": "work",
+      "groupLabel": "Work & ideas",
+      "tags": [
+        "问题",
+        "疑问",
+        "Question",
+        "work",
+        "help",
+        "why",
+        "❓"
+      ],
+      "alt": "Question",
+      "file": "png/question.png",
+      "preview": "webp/question.webp",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 1105655,
+      "sha256": "85db5131fe585fe07fb65a10ad584a30b8e20af65bba0b6e033617740f16c6fb",
+      "webp": {
+        "file": "webp/question.webp",
+        "width": 512,
+        "height": 512,
+        "bytes": 22826,
+        "sha256": "d1dbb1a3dbbcb722cf3e07886f9e8dcfddeb7d00284bd74b26fd0a632a1b125d"
+      },
+      "license": "CC0-1.0",
+      "generator": "built-in image_gen"
+    },
+    {
+      "id": "important",
+      "title": "Important",
+      "group": "work",
+      "groupLabel": "Work & ideas",
+      "tags": [
+        "重要",
+        "提醒",
+        "Important",
+        "work"
+      ],
+      "alt": "Important",
+      "file": "png/important.png",
+      "preview": "webp/important.webp",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 1111730,
+      "sha256": "64d32edc5524fbd737c8eb69d82266e2c5f90d79cb061f236b81d2f9c53350b4",
+      "webp": {
+        "file": "webp/important.webp",
+        "width": 512,
+        "height": 512,
+        "bytes": 18756,
+        "sha256": "21451732d568d6180748c4cda97696da355a1e72669b6e689b13df7b696bdfd6"
+      },
+      "license": "CC0-1.0",
+      "generator": "built-in image_gen"
+    },
+    {
+      "id": "reminder",
+      "title": "Reminder",
+      "group": "work",
+      "groupLabel": "Work & ideas",
+      "tags": [
+        "提醒",
+        "通知",
+        "Reminder",
+        "work"
+      ],
+      "alt": "Reminder",
+      "file": "png/reminder.png",
+      "preview": "webp/reminder.webp",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 1066490,
+      "sha256": "cd2684333de0349f781e56c790926a8a09ec84862c552413941e8c4d36ee3749",
+      "webp": {
+        "file": "webp/reminder.webp",
+        "width": 512,
+        "height": 512,
+        "bytes": 23232,
+        "sha256": "6926d5797ca69c046ec86b75b44e3cab36c4281a943fc68fdd741f0edab6db23"
+      },
+      "license": "CC0-1.0",
+      "generator": "built-in image_gen"
+    },
+    {
+      "id": "focus",
+      "title": "Focus time",
+      "group": "work",
+      "groupLabel": "Work & ideas",
+      "tags": [
+        "专注",
+        "工作",
+        "Focus",
+        "time",
+        "work"
+      ],
+      "alt": "Focus time",
+      "file": "png/focus.png",
+      "preview": "webp/focus.webp",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 1170477,
+      "sha256": "af9039c0c069f9e404ca4955a659dc2b0e6d567cf24e01beb0da03825f0e8f3d",
+      "webp": {
+        "file": "webp/focus.webp",
+        "width": 512,
+        "height": 512,
+        "bytes": 24156,
+        "sha256": "76add81582cb9002c46996fbc5d4b8125b2fcff44dcee56046c5f0ca8fcd5c29"
+      },
+      "license": "CC0-1.0",
+      "generator": "built-in image_gen"
+    },
+    {
+      "id": "rocket",
+      "title": "Let’s go",
+      "group": "work",
+      "groupLabel": "Work & ideas",
+      "tags": [
+        "出发",
+        "加油",
+        "火箭",
+        "Let’s",
+        "go",
+        "work"
+      ],
+      "alt": "Let’s go",
+      "file": "png/rocket.png",
+      "preview": "webp/rocket.webp",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 985887,
+      "sha256": "fef1c928a3011642db757b880bca904075287c32aa1c65441fdb1672f28d0d6c",
+      "webp": {
+        "file": "webp/rocket.webp",
+        "width": 512,
+        "height": 512,
+        "bytes": 22626,
+        "sha256": "22fcf685b324868ecba1d2ea3705c58e9dddcc0b55e511e09004bb0b6177ed3c"
+      },
+      "license": "CC0-1.0",
+      "generator": "built-in image_gen"
+    },
+    {
+      "id": "progress",
+      "title": "On it",
+      "group": "work",
+      "groupLabel": "Work & ideas",
+      "tags": [
+        "进行中",
+        "马上做",
+        "On",
+        "it",
+        "work",
+        "working",
+        "wip",
+        "in",
+        "progress"
+      ],
+      "alt": "On it",
+      "file": "png/progress.png",
+      "preview": "webp/progress.webp",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 615213,
+      "sha256": "da622a1ed5dd2aa56b29a3a40d1862d403f4da4f04f69a69dced619d9b15cdd7",
+      "webp": {
+        "file": "webp/progress.webp",
+        "width": 512,
+        "height": 512,
+        "bytes": 11628,
+        "sha256": "a9ec86e8dd7116a63066339aea6f94a226fbc548dbbdab05d36f797d4b879052"
+      },
+      "license": "CC0-1.0",
+      "generator": "built-in image_gen"
+    },
+    {
+      "id": "flag",
+      "title": "Save this",
+      "group": "work",
+      "groupLabel": "Work & ideas",
+      "tags": [
+        "收藏",
+        "标记",
+        "旗帜",
+        "Save",
+        "this",
+        "work"
+      ],
+      "alt": "Save this",
+      "file": "png/flag.png",
+      "preview": "webp/flag.webp",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 834300,
+      "sha256": "314a831c7f30383de9e1f1fefbc7f6668d55e7c6e53822e64c284817b5a07729",
+      "webp": {
+        "file": "webp/flag.webp",
+        "width": 512,
+        "height": 512,
+        "bytes": 22574,
+        "sha256": "fdcb29ebf1300d3e261ce291cf4c0e2cedee3f650a8b27f9c3b99a59c015ecd5"
+      },
+      "license": "CC0-1.0",
+      "generator": "built-in image_gen"
+    },
+    {
+      "id": "coffee",
+      "title": "Coffee break",
+      "group": "cozy",
+      "groupLabel": "Cozy things",
+      "tags": [
+        "咖啡",
+        "休息",
+        "Coffee",
+        "break",
+        "cozy",
+        "cafe",
+        "break",
+        "☕"
+      ],
+      "alt": "Coffee break",
+      "file": "png/coffee.png",
+      "preview": "webp/coffee.webp",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 1205087,
+      "sha256": "704e51b3f9798dbcc370ffb6397149b8f3181b1c0b84572c852f5b4ec86d786f",
+      "webp": {
+        "file": "webp/coffee.webp",
+        "width": 512,
+        "height": 512,
+        "bytes": 25850,
+        "sha256": "42188e09977ad073af4f95810ac7acfbe37b58eeb31de2cfc63303688356b1b2"
+      },
+      "license": "CC0-1.0",
+      "generator": "built-in image_gen"
+    },
+    {
+      "id": "tea",
+      "title": "Tea time",
+      "group": "cozy",
+      "groupLabel": "Cozy things",
+      "tags": [
+        "茶",
+        "休息",
+        "Tea",
+        "time",
+        "cozy"
+      ],
+      "alt": "Tea time",
+      "file": "png/tea.png",
+      "preview": "webp/tea.webp",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 1343756,
+      "sha256": "8965a45181274cc70db7404070ce1a819c9987f8c58192507ac807a1620d7b47",
+      "webp": {
+        "file": "webp/tea.webp",
+        "width": 512,
+        "height": 512,
+        "bytes": 27690,
+        "sha256": "0bd72b63404897e9349739799e2851c130009e23788c6b989e28776e93cddf3c"
+      },
+      "license": "CC0-1.0",
+      "generator": "built-in image_gen"
+    },
+    {
+      "id": "cookie",
+      "title": "Sweet cookie",
+      "group": "cozy",
+      "groupLabel": "Cozy things",
+      "tags": [
+        "饼干",
+        "甜",
+        "Sweet",
+        "cookie",
+        "cozy"
+      ],
+      "alt": "Sweet cookie",
+      "file": "png/cookie.png",
+      "preview": "webp/cookie.webp",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 2059405,
+      "sha256": "1b15215153ebdbed0f428f71e68fda73fd2efd1b9cec6224cd8ef6804ed24951",
+      "webp": {
+        "file": "webp/cookie.webp",
+        "width": 512,
+        "height": 512,
+        "bytes": 46064,
+        "sha256": "9bc1313864287ff2f0f655c9068566aeeaddc42779753396934e0a996eea8eb6"
+      },
+      "license": "CC0-1.0",
+      "generator": "built-in image_gen"
+    },
+    {
+      "id": "croissant",
+      "title": "Croissant",
+      "group": "cozy",
+      "groupLabel": "Cozy things",
+      "tags": [
+        "牛角包",
+        "可颂",
+        "Croissant",
+        "cozy"
+      ],
+      "alt": "Croissant",
+      "file": "png/croissant.png",
+      "preview": "webp/croissant.webp",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 1440343,
+      "sha256": "f0ecc98838ee1c39d38674619006ee52a7f1d6a3524307a8ec476a5a58e6c233",
+      "webp": {
+        "file": "webp/croissant.webp",
+        "width": 512,
+        "height": 512,
+        "bytes": 33960,
+        "sha256": "7a025730237027cb854d25d6756e60bd2c034f97c1f73ab9f9a15b7fc8812d0c"
+      },
+      "license": "CC0-1.0",
+      "generator": "built-in image_gen"
+    },
+    {
+      "id": "toast",
+      "title": "Happy toast",
+      "group": "cozy",
+      "groupLabel": "Cozy things",
+      "tags": [
+        "面包",
+        "吐司",
+        "Happy",
+        "toast",
+        "cozy"
+      ],
+      "alt": "Happy toast",
+      "file": "png/toast.png",
+      "preview": "webp/toast.webp",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 1885079,
+      "sha256": "51aeae0fd1a9c90308f417a2a9ab4cc944aa500ba96a31baf20ca109e59e5f24",
+      "webp": {
+        "file": "webp/toast.webp",
+        "width": 512,
+        "height": 512,
+        "bytes": 50006,
+        "sha256": "62cd43b425a33f3eaad3b6b02dfb7eeb50c837685a1dae2214541057397b664f"
+      },
+      "license": "CC0-1.0",
+      "generator": "built-in image_gen"
+    },
+    {
+      "id": "avocado",
+      "title": "Avocado",
+      "group": "cozy",
+      "groupLabel": "Cozy things",
+      "tags": [
+        "牛油果",
+        "Avocado",
+        "cozy"
+      ],
+      "alt": "Avocado",
+      "file": "png/avocado.png",
+      "preview": "webp/avocado.webp",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 1420858,
+      "sha256": "a379cc2bce3d22eb2daef35c20544cdd51bf7462fa5f63c071128cdca920639a",
+      "webp": {
+        "file": "webp/avocado.webp",
+        "width": 512,
+        "height": 512,
+        "bytes": 26750,
+        "sha256": "8ae112090c4187b4dc8c24a804e47d92ce0f14498f1724cd319b2682141a7e28"
+      },
+      "license": "CC0-1.0",
+      "generator": "built-in image_gen"
+    },
+    {
+      "id": "cherry",
+      "title": "Cherry friends",
+      "group": "cozy",
+      "groupLabel": "Cozy things",
+      "tags": [
+        "樱桃",
+        "Cherry",
+        "friends",
+        "cozy"
+      ],
+      "alt": "Cherry friends",
+      "file": "png/cherry.png",
+      "preview": "webp/cherry.webp",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 1250085,
+      "sha256": "f073e57d6d2dc1e8f8056846000ca5d94ed6a70b129fff82935aee1f92f863c6",
+      "webp": {
+        "file": "webp/cherry.webp",
+        "width": 512,
+        "height": 512,
+        "bytes": 30108,
+        "sha256": "783dc5231b2c8ad969205a095baf912069acb28e6aed5f1d083421b647cf2ce5"
+      },
+      "license": "CC0-1.0",
+      "generator": "built-in image_gen"
+    },
+    {
+      "id": "peach",
+      "title": "Peachy",
+      "group": "cozy",
+      "groupLabel": "Cozy things",
+      "tags": [
+        "桃子",
+        "可爱",
+        "Peachy",
+        "cozy"
+      ],
+      "alt": "Peachy",
+      "file": "png/peach.png",
+      "preview": "webp/peach.webp",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 1433379,
+      "sha256": "ab10a700e946a562b871e337b4cc6cda05abdfe4bdb9267b6a1ed1e800341304",
+      "webp": {
+        "file": "webp/peach.webp",
+        "width": 512,
+        "height": 512,
+        "bytes": 28038,
+        "sha256": "f506570e0509d6f28f0f13697afdcf4b800a4fb0cee4f93279cfb81a34ef38a3"
+      },
+      "license": "CC0-1.0",
+      "generator": "built-in image_gen"
+    },
+    {
+      "id": "cupcake",
+      "title": "A little treat",
+      "group": "cozy",
+      "groupLabel": "Cozy things",
+      "tags": [
+        "蛋糕",
+        "奖励",
+        "A",
+        "little",
+        "treat",
+        "cozy"
+      ],
+      "alt": "A little treat",
+      "file": "png/cupcake.png",
+      "preview": "webp/cupcake.webp",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 1252997,
+      "sha256": "a9f669858abd47b5b753ae6d2a3bf07badeebafa9a3983af4f2cd9d9b592f6cc",
+      "webp": {
+        "file": "webp/cupcake.webp",
+        "width": 512,
+        "height": 512,
+        "bytes": 26220,
+        "sha256": "d7aa925f1f8f0413eaccfe9f46fe809e8824eea6afe10f3af39b2eb44c18e982"
+      },
+      "license": "CC0-1.0",
+      "generator": "built-in image_gen"
+    },
+    {
+      "id": "pizza",
+      "title": "Pizza time",
+      "group": "cozy",
+      "groupLabel": "Cozy things",
+      "tags": [
+        "披萨",
+        "Pizza",
+        "time",
+        "cozy"
+      ],
+      "alt": "Pizza time",
+      "file": "png/pizza.png",
+      "preview": "webp/pizza.webp",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 1410269,
+      "sha256": "448df699917c024cfd62e5c36794615d41505f198514dd962f3d7fb66e15824a",
+      "webp": {
+        "file": "webp/pizza.webp",
+        "width": 512,
+        "height": 512,
+        "bytes": 35226,
+        "sha256": "e9ede2266cbcb0b12b97954884753c708450f660c9b8a36eabde016635d65b4f"
+      },
+      "license": "CC0-1.0",
+      "generator": "built-in image_gen"
+    },
+    {
+      "id": "book",
+      "title": "Book club",
+      "group": "cozy",
+      "groupLabel": "Cozy things",
+      "tags": [
+        "书",
+        "读书",
+        "Book",
+        "club",
+        "cozy"
+      ],
+      "alt": "Book club",
+      "file": "png/book.png",
+      "preview": "webp/book.webp",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 1096684,
+      "sha256": "6437ccf7490a856d8a9c152ce86880f27addb51efce97dde39b27a5b05f95acd",
+      "webp": {
+        "file": "webp/book.webp",
+        "width": 512,
+        "height": 512,
+        "bytes": 20890,
+        "sha256": "3b958e99148b76b732d948ee4aeec1141130b68ebd2cf22d3f53ac2037b711bc"
+      },
+      "license": "CC0-1.0",
+      "generator": "built-in image_gen"
+    },
+    {
+      "id": "sleep",
+      "title": "Rest up",
+      "group": "cozy",
+      "groupLabel": "Cozy things",
+      "tags": [
+        "睡觉",
+        "休息",
+        "Rest",
+        "up",
+        "cozy",
+        "sleepy",
+        "sleeping",
+        "tired",
+        "nap",
+        "💤"
+      ],
+      "alt": "Rest up",
+      "file": "png/sleep.png",
+      "preview": "webp/sleep.webp",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 1244179,
+      "sha256": "b49c9598da24a461516b5ae6667811c72f125cecb614ab1ef119b8e0cec520e9",
+      "webp": {
+        "file": "webp/sleep.webp",
+        "width": 512,
+        "height": 512,
+        "bytes": 24764,
+        "sha256": "430e222bbf878c3feb7ea740eae39f672ad952a1fe412f3f1186763659f5663b"
+      },
+      "license": "CC0-1.0",
+      "generator": "built-in image_gen"
+    },
+    {
+      "id": "sun",
+      "title": "Sunny day",
+      "group": "nature",
+      "groupLabel": "Nature & magic",
+      "tags": [
+        "太阳",
+        "晴天",
+        "Sunny",
+        "day",
+        "nature"
+      ],
+      "alt": "Sunny day",
+      "file": "png/sun.png",
+      "preview": "webp/sun.webp",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 1248052,
+      "sha256": "f05e127c17c3ebc44374d65b5ac614f3b0c83d5a19bc0c4e87127653479424ce",
+      "webp": {
+        "file": "webp/sun.webp",
+        "width": 512,
+        "height": 512,
+        "bytes": 24004,
+        "sha256": "7f005ad37e7dc7035efa2f69a5c3d87d4d312329a81373094fde2065e64bda7f"
+      },
+      "license": "CC0-1.0",
+      "generator": "built-in image_gen"
+    },
+    {
+      "id": "moon",
+      "title": "Good night",
+      "group": "nature",
+      "groupLabel": "Nature & magic",
+      "tags": [
+        "月亮",
+        "晚安",
+        "Good",
+        "night",
+        "nature"
+      ],
+      "alt": "Good night",
+      "file": "png/moon.png",
+      "preview": "webp/moon.webp",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 1319794,
+      "sha256": "731050878b2209239c219c650ff4fa5113b4df75a461e7ee4726efea3bc79f89",
+      "webp": {
+        "file": "webp/moon.webp",
+        "width": 512,
+        "height": 512,
+        "bytes": 26504,
+        "sha256": "f95ce5f3664c08fafe77a8018952daaea18505f7f790fdd0b0af6720bcb29aad"
+      },
+      "license": "CC0-1.0",
+      "generator": "built-in image_gen"
+    },
+    {
+      "id": "cloud",
+      "title": "Soft cloud",
+      "group": "nature",
+      "groupLabel": "Nature & magic",
+      "tags": [
+        "云朵",
+        "Soft",
+        "cloud",
+        "nature"
+      ],
+      "alt": "Soft cloud",
+      "file": "png/cloud.png",
+      "preview": "webp/cloud.webp",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 1229286,
+      "sha256": "61629378d2d5171a03fd219764dd7a559dd787f2fb326c005f62b4a2bfe63a44",
+      "webp": {
+        "file": "webp/cloud.webp",
+        "width": 512,
+        "height": 512,
+        "bytes": 18252,
+        "sha256": "b4d30597752798508318c3e5d9060efb9a3cd0caa8eed9acd438eaf5c2f91b15"
+      },
+      "license": "CC0-1.0",
+      "generator": "built-in image_gen"
+    },
+    {
+      "id": "rainbow",
+      "title": "Rainbow",
+      "group": "nature",
+      "groupLabel": "Nature & magic",
+      "tags": [
+        "彩虹",
+        "Rainbow",
+        "nature"
+      ],
+      "alt": "Rainbow",
+      "file": "png/rainbow.png",
+      "preview": "webp/rainbow.webp",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 1103312,
+      "sha256": "dcaab0868552a42c3c83e6efb4d94df8bc480542975a4946862e2b8870764a90",
+      "webp": {
+        "file": "webp/rainbow.webp",
+        "width": 512,
+        "height": 512,
+        "bytes": 21616,
+        "sha256": "da9e8745390c210f276dd65a9267c6cf65e0b36cac407c754f09406ec25e0e85"
+      },
+      "license": "CC0-1.0",
+      "generator": "built-in image_gen"
+    },
+    {
+      "id": "sparkle",
+      "title": "A little magic",
+      "group": "nature",
+      "groupLabel": "Nature & magic",
+      "tags": [
+        "闪光",
+        "魔法",
+        "A",
+        "little",
+        "magic",
+        "nature",
+        "star",
+        "stars",
+        "magic",
+        "✨"
+      ],
+      "alt": "A little magic",
+      "file": "png/sparkle.png",
+      "preview": "webp/sparkle.webp",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 909051,
+      "sha256": "7a879f1897953bd346e53c1054555d03ae3fd329db662582398e4fc0c8e44db9",
+      "webp": {
+        "file": "webp/sparkle.webp",
+        "width": 512,
+        "height": 512,
+        "bytes": 22368,
+        "sha256": "a05b84cbf7e05e96323af1f46184af496295f54664ab53e19412ce67d02f09b4"
+      },
+      "license": "CC0-1.0",
+      "generator": "built-in image_gen"
+    },
+    {
+      "id": "flower",
+      "title": "Flower power",
+      "group": "nature",
+      "groupLabel": "Nature & magic",
+      "tags": [
+        "花",
+        "鲜花",
+        "Flower",
+        "power",
+        "nature",
+        "flowers",
+        "bloom",
+        "🌸"
+      ],
+      "alt": "Flower power",
+      "file": "png/flower.png",
+      "preview": "webp/flower.webp",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 1378670,
+      "sha256": "d42924deb247393d6515031f3183ccd3ffb810cc144971f16b34751fc0f83589",
+      "webp": {
+        "file": "webp/flower.webp",
+        "width": 512,
+        "height": 512,
+        "bytes": 25424,
+        "sha256": "0a39141e95c0ddf9fc7e50e1f8b85a497ee5b78add95c1009bdd40620635b684"
+      },
+      "license": "CC0-1.0",
+      "generator": "built-in image_gen"
+    },
+    {
+      "id": "sprout",
+      "title": "Growing",
+      "group": "nature",
+      "groupLabel": "Nature & magic",
+      "tags": [
+        "成长",
+        "发芽",
+        "Growing",
+        "nature"
+      ],
+      "alt": "Growing",
+      "file": "png/sprout.png",
+      "preview": "webp/sprout.webp",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 1206805,
+      "sha256": "9e9a35c3fccf582b8769a28eef9d2728b8de257e0ea60a148fbf421ba7bf547c",
+      "webp": {
+        "file": "webp/sprout.webp",
+        "width": 512,
+        "height": 512,
+        "bytes": 33744,
+        "sha256": "300ea259eab58f4c9ed120ebe502c20fef9e4992fff6362f92a788cca9e6f858"
+      },
+      "license": "CC0-1.0",
+      "generator": "built-in image_gen"
+    },
+    {
+      "id": "mushroom",
+      "title": "Tiny mushroom",
+      "group": "nature",
+      "groupLabel": "Nature & magic",
+      "tags": [
+        "蘑菇",
+        "Tiny",
+        "mushroom",
+        "nature"
+      ],
+      "alt": "Tiny mushroom",
+      "file": "png/mushroom.png",
+      "preview": "webp/mushroom.webp",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 1161582,
+      "sha256": "63db91dd78003f8e137abf563b0f584a127226975f8b04c4047e17a74915fe4f",
+      "webp": {
+        "file": "webp/mushroom.webp",
+        "width": 512,
+        "height": 512,
+        "bytes": 25054,
+        "sha256": "8df94d1ad5574ceb8b267ca688c2573e8ff376678717b0fb900e2456bb3d4350"
+      },
+      "license": "CC0-1.0",
+      "generator": "built-in image_gen"
+    },
+    {
+      "id": "planet",
+      "title": "Space explorer",
+      "group": "nature",
+      "groupLabel": "Nature & magic",
+      "tags": [
+        "星球",
+        "太空",
+        "Space",
+        "explorer",
+        "nature"
+      ],
+      "alt": "Space explorer",
+      "file": "png/planet.png",
+      "preview": "webp/planet.webp",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 1115368,
+      "sha256": "eaab7e0bb5ffda3013129719918c295c5652417121b35bff2c337781749f958e",
+      "webp": {
+        "file": "webp/planet.webp",
+        "width": 512,
+        "height": 512,
+        "bytes": 22084,
+        "sha256": "c63c3890d298e305349bff804702d84b2a8f772021f80203ce73dc0b8a3db5a6"
+      },
+      "license": "CC0-1.0",
+      "generator": "built-in image_gen"
+    },
+    {
+      "id": "butterfly",
+      "title": "Butterfly",
+      "group": "nature",
+      "groupLabel": "Nature & magic",
+      "tags": [
+        "蝴蝶",
+        "Butterfly",
+        "nature"
+      ],
+      "alt": "Butterfly",
+      "file": "png/butterfly.png",
+      "preview": "webp/butterfly.webp",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 1431305,
+      "sha256": "6713abb7e47e9880d8e249e45943139ad52004132b5f822ed675fe88d18ebaeb",
+      "webp": {
+        "file": "webp/butterfly.webp",
+        "width": 512,
+        "height": 512,
+        "bytes": 30508,
+        "sha256": "3a734c143a6edb9d75362744dc2ca8392ee17b39d57167b21be89343f322ef45"
+      },
+      "license": "CC0-1.0",
+      "generator": "built-in image_gen"
+    },
+    {
+      "id": "tulip",
+      "title": "Tulip",
+      "group": "nature",
+      "groupLabel": "Nature & magic",
+      "tags": [
+        "郁金香",
+        "花",
+        "Tulip",
+        "nature"
+      ],
+      "alt": "Tulip",
+      "file": "png/tulip.png",
+      "preview": "webp/tulip.webp",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 1190214,
+      "sha256": "bd92149d4ba3ea013733c1894dfc69dc603a50c647bb04d172731e66e110eee5",
+      "webp": {
+        "file": "webp/tulip.webp",
+        "width": 512,
+        "height": 512,
+        "bytes": 25832,
+        "sha256": "01461f115989992b17197952441de9d05060364baccfdc194290fa9b45eec31b"
+      },
+      "license": "CC0-1.0",
+      "generator": "built-in image_gen"
+    },
+    {
+      "id": "lucky",
+      "title": "Good luck",
+      "group": "nature",
+      "groupLabel": "Nature & magic",
+      "tags": [
+        "幸运",
+        "四叶草",
+        "Good",
+        "luck",
+        "nature"
+      ],
+      "alt": "Good luck",
+      "file": "png/lucky.png",
+      "preview": "webp/lucky.webp",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 1396055,
+      "sha256": "a4019f399caf58a5fa059c2de0665f21e60be7b1e43dcb6834ad5a77a28bf806",
+      "webp": {
+        "file": "webp/lucky.webp",
+        "width": 512,
+        "height": 512,
+        "bytes": 25792,
+        "sha256": "ef19352babb3f01325303c2d181fa4547d1e69e2345b300dbe4ec02cdb7fded9"
+      },
+      "license": "CC0-1.0",
+      "generator": "built-in image_gen"
+    }
+  ]
+}

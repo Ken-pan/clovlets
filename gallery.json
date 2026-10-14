@@ -1,0 +1,12 @@
+{
+  "name": "Mallowbits",
+  "slug": "mallowbits",
+  "kind": "clay",
+  "repository": "https://github.com/Ken-pan/mallowbits",
+  "expectedAssets": 60,
+  "hero": "love",
+  "secondary": "cat",
+  "format": "60 clay stickers \u00b7 PNG + WebP",
+  "description": "Small expressions, soft edges. Friendly clay stickers for chats, notes and the little moments in between.",
+  "note": "Original 1254 \u00d7 1254 PNGs and compact 512 \u00d7 512 WebP previews. These are raster stickers; this release includes no vector or animated versions."
+}

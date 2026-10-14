@@ -1,0 +1,27 @@
+{
+  "name": "mallowbits",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "license": "(CC0-1.0 AND MIT)",
+  "author": "Ken Pan",
+  "engines": {
+    "node": ">=22.14.0"
+  },
+  "scripts": {
+    "check": "node scripts/verify.mjs",
+    "test": "node --test tests/*.test.mjs",
+    "build": "node scripts/build.mjs",
+    "serve": "node scripts/serve.mjs",
+    "package": "node scripts/package.mjs"
+  },
+  "devDependencies": {
+    "pngjs": "7.0.0",
+    "jszip": "3.10.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Ken-pan/mallowbits.git"
+  },
+  "homepage": "https://ken-pan.github.io/mallowbits/"
+}
