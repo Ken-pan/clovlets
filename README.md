@@ -6,7 +6,7 @@ Small expressions, soft edges. Friendly clay stickers for chats, notes and the l
 
 [Browse the gallery](https://ken-pan.github.io/mallowbits/) · [Download the complete pack](https://github.com/Ken-pan/mallowbits/releases/latest) · [License scope](ASSET_LICENSES.md)
 
-60 original PNGs (1254 × 1254), plus 60 compact WebP previews (512 × 512); five groups of 12: reactions, little buddies, work, cozy things and nature. Original image bytes are preserved, with SHA-256 hashes in manifest.json. Transparent raster artwork, ready for slides, websites, notes and apps. The gallery supports search, group filters, light/dark/checkered previews and individual downloads. Filter to 24 images or fewer to download a smaller PNG ZIP. Each sticker offers original PNG and compact WebP downloads.
+60 original PNGs (1254 × 1254), plus 60 compact WebP previews (512 × 512); five groups of 12: reactions, little buddies, work, cozy things and nature. Original image bytes are preserved, with SHA-256 hashes in manifest.json. Transparent raster artwork, ready for slides, websites, notes and apps. The gallery supports search, group filters, light/dark/checkered previews and individual downloads. Filter to 24 images or fewer to download a smaller PNG ZIP. Smaller ZIPs include a PNG-only catalog, generation records, CC0 and MIT notices; only one runs at a time. Each sticker offers original PNG and compact WebP downloads.
 
 ## Use and licenses
 
@@ -30,7 +30,7 @@ npm run serve
 
 Open http://127.0.0.1:4400. Serve over HTTP; opening index.html directly with file:// cannot load the catalog. The gallery uses local files and works without a provider API key, account, telemetry or image uploads. The hosting provider may maintain access logs.
 
-`npm run package` creates a ZIP, source manifest and SHA256SUMS in release/. The ZIP contains originals, metadata, licenses and gallery source. It excludes installed dependencies, build output, secrets and Git history. Verify each asset against manifest.json or run the checks above. Color-adjusted downloads are generated in your browser and are not the original bytes.
+`npm run package` creates a ZIP, source manifest and SHA256SUMS in release/v<VERSION>/. The ZIP contains originals, metadata, licenses and gallery source. It excludes installed dependencies, build output, secrets and Git history. Verify each asset against manifest.json or run the checks above. Build and packaging refuse uncataloged artwork and private content; existing release outputs are preserved. Color-adjusted downloads are generated in your browser and are not the original bytes.
 
 ## 中文
 
