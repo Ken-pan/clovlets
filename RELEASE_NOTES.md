@@ -1,3 +1,7 @@
+# Clovlets 1.0.4
+
+Corrects the getting-started instructions: Clovlets offers original PNG and compact WebP downloads; recoloring is a Duoquill feature. The official gallery remains https://clovlets.kens-toolbox.com/. Original artwork, IDs, hashes, generation records and licenses are unchanged; earlier releases remain available.
+
 # Clovlets 1.0.3
 
 Official gallery at https://clovlets.kens-toolbox.com/, matching Toolbox entry and explicit GitHub navigation. Original artwork and licenses are unchanged; earlier releases remain available.
