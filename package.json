@@ -1,6 +1,6 @@
 {
   "name": "clovlets",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "private": true,
   "type": "module",
   "license": "(CC0-1.0 AND MIT)",
@@ -23,5 +23,5 @@
     "type": "git",
     "url": "https://github.com/Ken-pan/clovlets.git"
   },
-  "homepage": "https://ken-pan.github.io/clovlets/"
+  "homepage": "https://clovlets.kens-toolbox.com/"
 }

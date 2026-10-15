@@ -1,3 +1,7 @@
+# Clovlets 1.0.3
+
+Official gallery at https://clovlets.kens-toolbox.com/, matching Toolbox entry and explicit GitHub navigation. Original artwork and licenses are unchanged; earlier releases remain available.
+
 # Clovlets 1.0.2
 
 New project name, repository and gallery address. Original asset IDs, filenames, dimensions, hashes and licenses are unchanged. Earlier releases remain available.
